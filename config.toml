@@ -81,5 +81,6 @@ denylist = [
     'https://spclient\.wg\.spotify\.com/ad-logic/.*', # ads
     'https://pubads\.g\.doubleclick\.net/.*', # ads
     'https://securepubads\.g\.doubleclick\.net/.*', # ads
+    'https://insight\.adsrvr\.org/.*', # ads
     'https://spclient\.wg\.spotify\.com/gabo-receiver-service/.*', # tracking
 ]
